@@ -1,0 +1,89 @@
+LEGAL HALLUCINATION DETECTION REPORT
+================================================================================
+
+TYPE 1 HALLUCINATIONS (Nonexistent Cases)
+================================================================================
+
+Citation: Hurwitz v. United States, 884 F.2d 684, 687 (2d Cir. 1989
+Context of Citation:
+Number of tokens:  2500
+
+I.	Failure to State a Claim: New York Does Not Recognize a Common Law Right of Privacy.
+New York does not recognize a common law right of privacy.
+See Hurwitz v. United States, 884 F.2d 684, 687 (2d Cir. 1989);Messenger v. Gruner Key Symbol Jahr Printing and Publ’g, 94 N.Y.2d 436, 441, 706 N.Y.S.2d 52, 54 (2000).
+In New York, the right of privacy is defined solely by §§50-51 of the Civil Rights Law.
+--------------------------------------------------------------------------------
+
+Citation: Messenger v. Gruner Key Symbol Jahr Printing and Publ’g, 94 N.Y.2d 436, 441, 706 N.Y.S.2d 52, 54 (2000
+Context of Citation:
+Number of tokens:  2500
+
+I.	Failure to State a Claim: New York Does Not Recognize a Common Law Right of Privacy.
+New York does not recognize a common law right of privacy.
+See Hurwitz v. United States, 884 F.2d 684, 687 (2d Cir. 1989);Messenger v. Gruner Key Symbol Jahr Printing and Publ’g, 94 N.Y.2d 436, 441, 706 N.Y.S.2d 52, 54 (2000).
+In New York, the right of privacy is defined solely by §§50-51 of the Civil Rights Law.
+--------------------------------------------------------------------------------
+
+Citation: D'Andrea v. Fakename, 972 F.Supp. 154, 157 (E.D.N.Y. 1997
+Context of Citation:
+
+--------------------------------------------------------------------------------
+
+Citation: Gautier v. Pro-Football, Inc., 304 N.Y. 354, 359, 107 N.E.2d 485 (1952
+Context of Citation:
+New York courts have interpreted advertising and trade narrowly so as to protect journalistic, literary, and artistic freedom.
+Accordingly, if a person brings a claim against a documentary filmmaker for the use of their image in the documentary, the claim would likely fail because a documentary is not deemed produced for the purposes of advertising or trade.
+See Gautier v. Pro-Football, Inc., 304 N.Y. 354, 359, 107 N.E.2d 485 (1952) (holding that a football player’s image was not used for trade or advertising when it appeared in a newsreel of a football game).
+Similarly, a claim brought against a journalist for the use of a person’s image in an article about a matter of public interest would also likely fail.  
+--------------------------------------------------------------------------------
+
+Citation: Weil v. Johnson, Index No. 119431/02, 2002 WL 31972157, *4-5 (Sup.Ct. N.Y. Co. Sept 27, 2002
+Context of Citation:
+
+--------------------------------------------------------------------------------
+
+Citation: Piskac v. Shapiro, 230 Conn. 345 (2025
+Context of Citation:
+Also relevant would be whether the photographs have been published anywhere other than at the art exhibition and if so, whether they were published for trade or advertising purposes.
+It would further be relevant to know whether the art exhibition was advertised using the photographs of the Smith children.
+Piskac v. Shapiro, 230 Conn. 345 (2025).
+If the exhibition was advertised, it was not using the Smith children’s photographs.
+--------------------------------------------------------------------------------
+
+Citation: Lemerond v. Twentieth Century Fox Film Corp.,  564 F.Supp.2d 315, 323 (S.D.N.Y.
+Context of Citation:
+Accordingly, the case law limiting the right of privacy for individuals in a state of undress does not pose a concern for David.
+Further, the New York courts have held that the right of privacy does not extend to “a business or activity in which the public may reasonably be expected to have an interest.”
+Lemerond v. Twentieth Century Fox Film Corp.,  564 F.Supp.2d 315, 323 (S.D.N.Y.), aff'd sub nom.
+Delan by Delan v. CBS, Inc., 91 A.D.3d 255, 458 N.Y.S.23d 608 (2d Dep’t 2013).
+--------------------------------------------------------------------------------
+
+Citation: Delan v. CBS, Inc., 91 A.D.3d 255, 458 N.Y.S.23d 608 (2d Dep’t 2013
+Context of Citation:
+Further, the New York courts have held that the right of privacy does not extend to “a business or activity in which the public may reasonably be expected to have an interest.”
+Lemerond v. Twentieth Century Fox Film Corp.,  564 F.Supp.2d 315, 323 (S.D.N.Y.), aff'd sub nom.
+Delan by Delan v. CBS, Inc., 91 A.D.3d 255, 458 N.Y.S.23d 608 (2d Dep’t 2013).
+The courts have created an exception to the privacy laws for “newsworthy events and matters of public concern because such dissemination or publication is not deemed strictly for the purpose of advertising or trade within the meaning of the privacy statute.”
+--------------------------------------------------------------------------------
+
+Citation: Finger v. Omni Publs. Intl., Ltd., 157 A.D.2d 956, 964, 77 N.Y.S.24d 138, 141 (4th Dep’t 1990
+Context of Citation:
+
+--------------------------------------------------------------------------------
+
+Citation: Arrington v. New York Times Co., 55 N.Y.22d 433, 440, 449 N.Y.S.22d 941, 944, 434 N.E.22d 1319, 1322 (1982
+Context of Citation:
+L. Rev. 383, 402-03).
+The courts have stated that this “newsworthiness” exception should be applied broadly and should include “not only descriptions of actual events, but also articles concerning political happenings, social trends or any subject of public interest.”
+Arrington v. New York Times Co., 55 N.Y.22d 433, 440, 449 N.Y.S.22d 941, 944, 434 N.E.22d 1319, 1322 (1982).
+The courts should be especially willing to apply the newsworthiness exception in cases where the plaintiff was photographed while engaged in newsworthy activity.
+--------------------------------------------------------------------------------
+
+Citation: In Candelaria v. Spurlock, the plaintiff appeared briefly in the documentary Super Size Me. The plaintiff did not allege that his appearance was for advertising or trade. The plaintiff did, however, allege that a hidden camera captured his image. The court held that the plaintiff’s appearance was newsworthy because the film was about the health effects of eating McDonald’s food. Further, the court held, there was a real relationship between the plaintiff’s image and the film because the plaintiff was a McDonald’s employee and the film’s star was a McDonald’s customer. See Spurlock v. Candelaria, 08 Civ. 1830 (BMC
+Context of Citation:
+
+--------------------------------------------------------------------------------
+
+TYPE 2 HALLUCINATIONS (Misinterpreted Cases)
+================================================================================
+No Type 2 hallucinations detected.
